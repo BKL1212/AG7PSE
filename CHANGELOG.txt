@@ -1,0 +1,25 @@
+       
+10.11. - Front End Termin Kalender 
+       - Termin Anfrage per Email (vorerst extern)
+
+
+10.12. - PHP Login
+       - Selectable Boolean (Kunden ohne bearbeiten, Admin mit bearbeiten)
+       - Sicheres PW
+       - JSON Format Parsen
+       - Terminanfrageperemail debuggen
+
+15.1.2019
+       - Speichern der Events in JSON Events Datei
+       - Löschen der Events 
+       - Ablauf noch schreiben! Kundennummer per Mail
+       
+
+15.01.2019
+      - Sicherheitslücke entdeckt und beseitigt --> Sessions eingebaut mit lokal gespeicherten Cookies
+      - Securitytoken + Identifier
+      - New Date() in JS. Terminkalender ab jetzt immer mit heutiges Datum
+      
+17.01.2019
+      - - Identifikationsnummer bearbeiten könnnen --> lange Liste Datenbank, Bearbeiten, Löschen 
+        (Vorteil für Kundin: bessere Übersicht)
